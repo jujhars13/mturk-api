@@ -1,7 +1,7 @@
 [![NPM version][npm-image]][npm-url]
 [![Downloads][download-badge]][npm-url]
+[![Known Vulnerabilities](https://snyk.io/test/github/jujhars13/mturk-api/badge.svg?targetFile=package.json)](https://snyk.io/test/github/jujhars13/mturk-api?targetFile=package.json)
 
-![alt text](http://goo.gl/zbqlsS "Brainup")
 
 ### Install
 ```sh
