@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/josebarrios/mturk-api#readme",
   "dependencies": {
-    "crypto-js": "^3.1.5",
-    "promise": "^7.0.4",
-    "soap": "~0.24.0"
+    "crypto-js": "^3.1.*",
+    "promise": "^7.0.*",
+    "soap": "~0.28.*"
   },
   "devDependencies": {
     "mocha": "^2.3.0"
