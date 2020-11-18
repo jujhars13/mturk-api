@@ -23,8 +23,8 @@
   "dependencies": {
     "crypto-js": "^3.1.*",
     "promise": "^7.0.*",
-    "soap": "~0.28.*",
-    "snyk": "^1.316.1"
+    "snyk": "^1.316.1",
+    "soap": "~0.35.0"
   },
   "devDependencies": {
     "mocha": "^2.3.0"
